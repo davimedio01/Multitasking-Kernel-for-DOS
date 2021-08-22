@@ -1,0 +1,3 @@
+TK-02.C (system.h system.obj kernel.h kernel.obj)
+system.obj
+kernel.obj
